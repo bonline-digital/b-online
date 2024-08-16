@@ -1,0 +1,18 @@
+$primary: #f4821f;
+
+body
+{
+    width: 100%;
+}
+
+.gray-700
+{
+    color: #495057;
+}
+
+.gray-800
+{
+    color: #343a40;
+}
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
